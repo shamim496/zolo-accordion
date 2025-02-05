@@ -9,9 +9,10 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+The **Accordion** block lets you create interactive, customizable collapsible content for FAQs, product features or structured layouts within WordPress.
+
 == Description ==
 
-The Accordion block lets you create interactive, customizable collapsible content for FAQs, product features or structured layouts within WordPress.
 
 == Installation ==
 
