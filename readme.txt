@@ -31,8 +31,6 @@ The **Accordion** block lets you create interactive, customizable collapsible co
 3. Select the Accordion zip file and proceed to install
 4. Activate Accordion.
 
-
-
 == Upgrade Notice ==
 
 There are no requirement for upgrade notice. Just click the update button and updated the plugin.
