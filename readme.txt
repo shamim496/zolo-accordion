@@ -77,8 +77,8 @@ No. With this plugin, you will actually replace all popular page builder plugins
 
 == Screenshots ==
 
-1. **Accordion Interface** - The interactive Accordion that engages visitors.
-2. **Settings Page** - Configure your Accordion settings for better customization.
+1. **Accordion Interface** - The interactive accordion that engages visitors.
+2. **Settings Page** - Configure your accordion settings for better customization.
 3. **Responsive Design** - The plugin works seamlessly on both desktop and mobile device
 
 == Changelog ==
