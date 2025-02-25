@@ -1,6 +1,6 @@
 === Zolo Accordion ===
-Contributors: shamim496
-Donate link: http://shamim496.com/
+Contributors: shamim496, selimmw, bdthemes
+Donate link: http://bdthemes.com/
 Tags: block-editor, gutenberg blocks, gutenberg plugin, Accordion
 Requires at least: 6.1
 Tested up to: 6.7
