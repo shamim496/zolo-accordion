@@ -40,15 +40,6 @@ export default function Edit(props) {
   const { attributes, setAttributes, className, clientId, isSelected } = props;
   const { preview, uniqueId, parentClasses, preset } = attributes;
 
-  // preview image
-  if (preview) {
-    return (
-      <img
-        src={zoloParams.blocksPreview.accordion}
-        alt={__("Accordion Preview", "zoloblocks")}
-      />
-    );
-  }
   // filter hooks for render
   const renderHookBefore = applyFilters(
     "zolo.blocks.render.hook.before",
@@ -159,7 +150,7 @@ export default function Edit(props) {
         <ToolbarGroup>
           <ToolbarButton
             icon="insert"
-            label={__("Add Accordion", "zoloblocks")}
+            label={__("Add Accordion", "zolo-accordion")}
             onClick={() => appendBlock()}
           />
         </ToolbarGroup>
@@ -179,7 +170,7 @@ export default function Edit(props) {
               >
                 <path d="M8 4a.5.5 0 0 1 .5.5v3h3a.5.5 0 0 1 0 1h-3v3a.5.5 0 0 1-1 0v-3h-3a.5.5 0 0 1 0-1h3v-3A.5.5 0 0 1 8 4" />
               </svg>
-              {__("Add Accordion", "zoloblocks")}
+              {__("Add Accordion", "zolo-accordion")}
             </button>
           </>
         ) : (

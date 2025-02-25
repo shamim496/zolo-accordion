@@ -63,7 +63,7 @@ export default function Edit(props)  {
               tagName={titleTag}
               className="zolo-accordion-head-title"
               value={title}
-              placeholder={__("Accordion Title", "zoloblocks")}
+              placeholder={__("Accordion Title", "zolo-accordion")}
             />
             <div className="zolo-accordion-toggle">
               <div className="zolo-accordion-collapsed-mode">
