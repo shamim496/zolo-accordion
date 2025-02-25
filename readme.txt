@@ -1,18 +1,23 @@
 === Zolo Accordion ===
-Contributors: bdthemes
-Donate link: http://bdthemes.com/
+Contributors: shamim496
+Donate link: http://shamim496.com/
 Tags: block-editor, gutenberg blocks, gutenberg plugin, Accordion
 Requires at least: 6.1
-Tested up to: 6.7.1
+Tested up to: 6.7
 Requires PHP: 7.4
 Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The **Accordion** block lets you create interactive, customizable collapsible content for FAQs, product features or structured layouts within WordPress.
+The **Accordion** block you create interactive, customizable collapsible content for FAQs, product features or structured layouts within WordPress.
 
 == Description ==
 
+
+== Accessing the Source Code ==
+
+You can find the source code for this plugin on GitHub:
+[GitHub Repository Link] - https://github.com/shamim496/zolo-accordion.git
 
 == Installation ==
 
@@ -83,7 +88,7 @@ No. With this plugin, you will actually replace all popular page builder plugins
 
 == Changelog ==
 
-  **= 1.0.0 - 15-01-2025 =**
+  **= 1.0.0 - 20-02-2025 =**
   - **Initial Released
 
 To build the plugin:
