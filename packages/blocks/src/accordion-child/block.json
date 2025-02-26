@@ -6,7 +6,7 @@
     "keywords": ["Accordion", "Collapse", "Expand", "faq", "toggle"],
     "description": "Add accordion items for collapsible content sections.",
     "apiVersion": 3,
-    "textdomain": "zolo-accordion",
+    "textdomain": "zoloblocks",
     "parent": ["zolo/accordion"],
     "supports": {
         "anchor": false,
