@@ -88,7 +88,7 @@ No. With this plugin, you will actually replace all popular page builder plugins
 
 == Changelog ==
 
-  **= 1.0.0 - 20-02-2025 =**
+  **= 1.0.0 - 06-03-2025 =**
   - **Initial Released
 
 To build the plugin:
