@@ -46,16 +46,14 @@ class ZoloAccordion {
 
     private function init_hooks() {
         add_action('init', [$this, 'register_blocks']);
-
         add_action('enqueue_block_assets', [$this, 'enqueue_editor_assets']);
-
         add_filter('block_categories_all', [$this, 'add_custom_block_category']);
-
 
         if (!is_admin()) {
             add_action('wp_enqueue_scripts', [$this, 'enqueue_front_scripts']);
         }
     }
+    
     private function include_files() {
         $includes_dir = ZOLO_ACCORDION_DIR_PATH . 'includes/';
         $files = ['SingletonTrait.php', 'StyleGenerator.php'];
