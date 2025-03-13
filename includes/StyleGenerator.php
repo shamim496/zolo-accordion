@@ -64,7 +64,7 @@ if (!class_exists('ZoloLibrary\Includes\StyleGenerator')) {
         }
 
         public function output_dynamic_styles() {
-            wp_enqueue_style('zolo-block-inline-styles', plugin_dir_url(__FILE__) . 'style.css', array(), ZOLO_ACCORDION_VERSION);
+            wp_enqueue_style('zolo-block-inline-styles', trailingslashit( ZOLO_ACCORDION_URL ).'dist/zoloLibrary.css', [], ZOLO_ACCORDION_VERSION);
         
             if (!empty($this->dynamic_styles)) {
                 wp_add_inline_style('zolo-block-inline-styles', $this->dynamic_styles);
